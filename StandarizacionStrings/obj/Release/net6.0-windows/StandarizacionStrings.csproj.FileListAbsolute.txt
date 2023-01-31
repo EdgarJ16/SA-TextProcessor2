@@ -1,0 +1,45 @@
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.exe
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.deps.json
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.runtimeconfig.json
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.dll
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.pdb
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.Logica.dll
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.Logica.pdb
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.csproj.AssemblyReference.cache
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.Form1.resources
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.Properties.Resources.resources
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.csproj.GenerateResource.cache
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.AssemblyInfoInputs.cache
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.AssemblyInfo.cs
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.csproj.CoreCompileInputs.cache
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.csproj.CopyComplete
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.dll
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\refint\StandarizacionStrings.dll
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.pdb
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.genruntimeconfig.cache
+C:\Users\EJacob\Documents\Proyectos\StandarizacionStrings\obj\Release\net6.0-windows\ref\StandarizacionStrings.dll
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.exe
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.deps.json
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.runtimeconfig.json
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.dll
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.pdb
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.Logica.dll
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\bin\Release\net6.0-windows\StandarizacionStrings.Logica.pdb
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.csproj.AssemblyReference.cache
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.Form1.resources
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.Properties.Resources.resources
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.csproj.GenerateResource.cache
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.AssemblyInfoInputs.cache
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.AssemblyInfo.cs
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.csproj.CoreCompileInputs.cache
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.csproj.CopyComplete
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.dll
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\refint\StandarizacionStrings.dll
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.pdb
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.genruntimeconfig.cache
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\ref\StandarizacionStrings.dll
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.LDAPVerForm.resources
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings..resources
+C:\Users\EJacob\Documents\Proyectos\SA Tool Procesor\StandarizacionStrings\obj\Release\net6.0-windows\StandarizacionStrings.EditUser.resources
